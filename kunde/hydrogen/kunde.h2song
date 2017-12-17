@@ -23,7 +23,7 @@
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
-   <gain>1</gain>
+   <gain>5</gain>
    <filterActive>true</filterActive>
    <filterCutoff>1</filterCutoff>
    <filterResonance>0</filterResonance>
@@ -1196,19 +1196,7 @@
      <note_off>false</note_off>
     </note>
     <note>
-     <position>120</position>
-     <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
-     <pan_L>0.5</pan_L>
-     <pan_R>0.5</pan_R>
-     <pitch>0</pitch>
-     <key>C0</key>
-     <length>-1</length>
-     <instrument>0</instrument>
-     <note_off>false</note_off>
-    </note>
-    <note>
-     <position>168</position>
+     <position>72</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
